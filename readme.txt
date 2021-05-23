@@ -2,8 +2,7 @@
 -------------------------Bienvenue sur  ZX Notes-------------------------------------------
 ---------------------------------------------------------------------------------------------------
 
-ZX Note est un éditeur de texte qui vous permet de ne laisser  aucune
-trace de vos écris sur votre ordinateur, les fichiers sont chiffrés avec 
+ZX Note est un éditeur de texte qui vous permet de chiffrer vos écrits avec 
 méthode SHA256, ce qui garantit la sécurité de vos fichiers.
 
 La clé privé est indispensable pour chiffrer / déchiffrer ,vous pouvez l'inventer,
